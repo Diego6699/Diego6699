@@ -14,6 +14,6 @@
     
 </div>
 <br>
-![Snake animation](https://github.com/Diego6699/Diego6699/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Diego6699/Diego6699/blob/output/github-contribution-grid-snake.gif)
 
 "As coisas mais importantes não estão escritas num livro, é preciso aprendê-las vivenciando-as sozinho."Sakura Haruno (Naruto)
