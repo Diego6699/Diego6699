@@ -1,6 +1,6 @@
 ### Olá, eu sou Diego Leonardo 🖐️
 
-![Diego6699's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego6699&show_icons=true&theme=radical)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com user=Diego6699&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego6699&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologia que eu uso no meu dia
