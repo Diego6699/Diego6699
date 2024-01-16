@@ -1,7 +1,5 @@
 ### Olá, eu sou Diego Leonardo 🖐️
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Diego6699&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego6699&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologia que eu uso no meu dia
 <div>
