@@ -42,10 +42,6 @@
 
 ###
 
-<img src="https://github.com/Diego6699/Diego6699/blob/c6b650d0da5c3503e7b95918bde4da994ca03517/github-contribution-grid-snake.gif" alt="Snake animation" />
-
-###
-
 <h2 align="left">Social Media</h2>
 
 ###
