@@ -11,21 +11,21 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring boot"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="linguagem c"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="linguagem c++"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="linguagem php"  />
 </div>
 
 ###
